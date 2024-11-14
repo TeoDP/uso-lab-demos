@@ -7,5 +7,5 @@ int main() {
         printf("test valgrind %d ................................... failed 0/10\n", i);
     }
     printf("\nPunctaj total 100/100\n");
-    printf("Punctajul bonus 0/100\n");
+    printf("Punctajul bonus valgrind 0/100\n");
 }
